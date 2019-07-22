@@ -1,0 +1,92 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.logo-docplanner {
+    width: 265px;
+}
+
+.nav-link {
+    color: gray;
+}
+
+.link-About:hover {
+    color: rgb(22, 216, 200);
+}
+
+.link-Career {
+    color: rgb(22, 216, 200);
+}
+
+.deparetments-toggle:hover {
+    color: rgb(22, 216, 200);
+}
+
+#card-img-market {
+    width: 87%;
+    margin-left: 45%;
+}
+
+#card-img-saas {
+    width: 87%;
+    margin-left: 45%;
+}
+
+#inlineFormCustomSelect {
+    width: 12rem;
+    color: black;
+}
+
+#titre-company {
+    color: white;
+    margin-left: 30px;
+}
+
+#logo-planner {
+    background-image: url("bg.png");
+}
+
+.img-card {
+    width: 22%;
+}
+
+.card-deck {
+    cursor: pointer;
+}
+
+.card-card1 {
+    padding: 3px;
+}
+
+.team {
+    padding: 50px;
+}
+
+#titre-team {
+    color: #0ae9e9;
+}
+
+.p-team {
+    color: gray;
+}
+
+.btn {
+    background-color: #0051ff;
+    color: white;
+}
+
+btn:hover {
+    background-color: blue;
+}
+
+.p-footer {
+    color: gray;
+    padding: 50px;
+    text-align: center;
+}
+
+#link-footer {
+    color: blue;
+}
